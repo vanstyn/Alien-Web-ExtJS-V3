@@ -39,7 +39,7 @@ Returns the raw ExtJS source directory.
 
 =item * L<www.sencha.com|http://www.sencha.com>
 
-=item * L<ExtJS 3.4.0 API Docs|http://dev.sencha.com/deploy/ext-3.4.0/docs/>
+=item * L<ExtJS 3.4.0 API Docs|https://docs.sencha.com/extjs/3.4.0/>
 
 =back
 
